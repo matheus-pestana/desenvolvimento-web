@@ -1,0 +1,124 @@
+.navbar {
+    background-color: #031C9D;
+    align-items:  center;
+    padding: 10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+
+}
+
+.logo {
+    justify-content: flex-start;
+    padding: 20px 0px 0px;
+    flex-wrap: wrap;
+}
+
+.navbar-items{
+    display: flex;
+    justify-content: center;
+    margin-left: -40px;
+}
+
+.nav-link {
+    text-decoration: none;
+    padding: 20px;
+    color: white;   
+}
+
+.lupa {
+    width: 20px;
+    margin-left: -5px;
+    margin-bottom: -6px;  
+}
+
+.pesquisa {
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 200px;
+}
+
+#topo {
+    display: flex;
+    align-items: center;
+}
+
+.desconto {
+    justify-content: center;
+   
+}
+
+.container{
+    justify-content: center;
+}
+
+.botao {
+    width: 95%;
+}
+
+.caixa {
+    flex-wrap: wrap;
+    border-radius: 20px;
+    height: 30px;
+}
+
+.footer-items{
+    display: flex;
+    justify-content: center;
+    margin-left: -40px;
+    font-size: 10px;
+}
+
+.footer-link {
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+}  
+
+.rodape {
+    background-color: #031C9D;
+}
+
+.anel {
+    width: 25%;
+}
+
+.relogio {
+    width: 25%;
+}
+
+.revolver {
+    width: 25%;
+}
+
+.notebook {
+    width: 25%;
+}
+
+.suporte {
+    width: 25%;
+}
+
+.perfume {
+    width: 25%;
+}
+
+.revolver {
+    width: 25%;
+}
+
+.gpro {
+    width: 25%;
+}
+
+.foxy {
+    width: 25%;
+}
+
+.yoda {
+    width: 25%;
+}
+
+.produtos {
+    flex-wrap: wrap;
+}
